@@ -4,6 +4,7 @@
   "details": {
     "intro": {
       "background": "setup.sh"
+      "foreground": "setup.sh"
     },
     "steps": [
       {
