@@ -3,7 +3,7 @@
   "description": "try to verify",
   "details": {
     "intro": {
-      "background": "setup.sh"
+      "background": "setup.sh",
       "foreground": "setup.sh"
     },
     "steps": [
