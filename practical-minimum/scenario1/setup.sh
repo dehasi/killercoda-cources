@@ -1,2 +1,2 @@
-touch file
+echo $(pwd) > /root/file
 
