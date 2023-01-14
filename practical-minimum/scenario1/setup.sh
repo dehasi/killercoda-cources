@@ -1,4 +1,4 @@
 echo $(pwd) > /root/file
 
-sudo su - ubuntu
+sudo su - ubuntu > ~/out 2> ~/err
 
