@@ -2,6 +2,9 @@
   "title": "Task 1",
   "description": "try to verify",
   "details": {
+    "intro": {
+      "background": "setup.sh"
+    },
     "steps": [
       {
         "title": "Do smth what written in md",
