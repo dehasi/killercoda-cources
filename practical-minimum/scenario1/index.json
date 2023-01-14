@@ -1,6 +1,15 @@
 {
-  "title": "Scenario ONE",
-  "description": "This is the description of scenario ONE in course ONE",
+  "title": "Verification",
+  "description": "Verify user input",
+  "details": {
+    "steps": [
+      {
+        "title": "Please create a file",
+        "text": "task1.md",
+        "verify": "verify.sh"
+      }
+    ]
+  },
   "backend": {
     "imageid": "ubuntu"
   }
