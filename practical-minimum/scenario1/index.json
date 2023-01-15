@@ -10,8 +10,6 @@
       {
         "title": "Do smth what written in md",
         "text": "task1.md",
-        "background": "background.sh",
-        "foreground": "foreground.sh",
         "verify": "verify.sh"
       }
     ]
