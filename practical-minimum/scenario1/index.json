@@ -3,12 +3,15 @@
   "description": "try to verify",
   "details": {
     "intro": {
-      "background": "setup.sh"
+      "background": "background.sh",
+      "foreground": "foreground.sh"
     },
     "steps": [
       {
         "title": "Do smth what written in md",
         "text": "task1.md",
+        "background": "background.sh",
+        "foreground": "foreground.sh",
         "verify": "verify.sh"
       }
     ]
