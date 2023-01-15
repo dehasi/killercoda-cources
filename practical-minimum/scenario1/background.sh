@@ -1,6 +1,6 @@
 echo "Backgound start"
 
-su - ubuntu
+# su - ubuntu
 
 echo "Backgound finish"
 
